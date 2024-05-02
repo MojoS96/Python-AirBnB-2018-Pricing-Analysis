@@ -26,7 +26,7 @@ Using Python, I was able to perform the necessary data consistency checks and wr
 3. Scripts: Jupyter Notebooks containing the all the code used from data consistency checks and wrangling to defining new variables and performing merges.
 4. Visualizations: .png files for each of the generated Visualizations
 5. Final Deiverables:
-   -  Tableau Report: [AirBnB 2018 - Competitor Pricing Analysis](https://public.tableau.com/app/profile/joseph.sharp3530/viz/AirBnB2018-CompetitorPricingAnalysis/Story)
+   -  Tableau Report: [AirBnB 2018 - Competitor Pricing Analysis](https://public.tableau.com/app/profile/joseph.sharp3530/viz/AirBnB2018Analysis/Story)
 
 ### Toolset
 
